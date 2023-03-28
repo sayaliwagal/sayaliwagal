@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayaliwagal
 - 👀 I’m interested in full stack devlopment
-- 🌱 I’m currently learning php
+- 🌱 I know HTML5,CSS3,Java,JavaScript etc.
 - 💞️ I’m looking to collaborate on live projects
 - 📫 How to reach me linkedin.com/in/sayali-wagal-521b3b1b0
 Email
